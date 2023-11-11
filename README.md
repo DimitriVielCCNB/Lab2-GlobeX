@@ -6,3 +6,24 @@ The Globex Corporation headquarters is located in Cypress Creek, a company town
 
 <hr>
 
+the main goal of GlobeX is sales of it<s products... and World domination
+our task is to create a website to facilitate all of GlobeX's goals without getting on their black list (that means we should propably do a good job...!)
+
+GlobeX has a worlwide reach (ya no places to hide), and has everything a lowly consumer might need
+
+the main competition of GlobeX is everyone else
+
+Here are the requirements given by GlobeX:
+- Main page : a welcoming welcome page that describes the company and it's product selection
+- Home: everything a consumer might need inside the house and even the house itself -> dropdown menu might be required
+- Exterior: Everything a consumer might need for the outside of his home -> dropdown menu might be required
+- Sports: all sports equipment -> dropdown menu might be required
+- Radioactif goods: for all of te needs of the energy plants and evil bilionnairs
+- world dominations goods: DOH!
+- Contact Us: a way for the consumer to get in touch with GlobeX if they cannot find the product they are looking for
+- Mailling List: an efficient way for the consumer to receive their catalogues
+
+<hr>
+
+**** dans le titre de ce laboratoire, décrire les roles de chaque membres de l'équipe (pages à faire, et page fait)
+**** N<oubliex pas de mettre des commentaires dans votre code ainsi qu'une bonne sémantique. 
